@@ -2,7 +2,7 @@
 author: Bénédicte Lambert
 description: Crumble de légumes et de graines rapide à préparer
 image_url: https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/crumble-legumes.jpg
-title: Marinade de boeuf au soja
+title: Crumble de légumes au sarrasin
 licence: CC-by-sa
 categorie: légumes
 niveau: débutant

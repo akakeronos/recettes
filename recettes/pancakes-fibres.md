@@ -29,6 +29,7 @@ pour 36 pancakes
 * cul de poule
 * cuillière
 * fouet
+
 ### Recette
 2. Mélanger dans un saladier la farine, la pulpe, la farine, la poudre à lever et le sucre
 3. Faire un puit, cassez les oeufs et ajouter le lait et l'huile

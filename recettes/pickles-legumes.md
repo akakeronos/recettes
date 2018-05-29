@@ -2,7 +2,7 @@
 author: Pascal Romain
 description: des pickles de légumes à faire soi-même, notamment pour conserver les légumes.
 image_url: https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/assiette-pickles.jpg
-title: Pancakes aux fibres
+title: Pickles de légumes
 licence: non définie
 categorie: légumes
 niveau: débutant

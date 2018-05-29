@@ -1,7 +1,7 @@
 ---
 author: Bénédicte Lambert
 description: Un gâteau simple, sain et rapide à réaliser
-image_url: https://github.com/akakeronos/recette-gourmandignes/raw/master/images/tiramisu-revisite.jpg
+image_url: 
 title: Recette du gâteau
 licence: CC-by-sa
 categorie: dessert

@@ -2,7 +2,7 @@
 author: Laure Kié
 description: des muffins aux haricots azuki et au thé matcha.
 image_url: ./images/matcha_azuki-4-sur-1.jpg
-title: Muffins au matcha et azuki/ © Laure Kié
+title: Muffins au matcha et azuki
 licence: non définie
 categorie: dessert
 niveau: débutant

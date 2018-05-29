@@ -21,6 +21,7 @@ pour 36 muffins
 * 45 cl de lait d'amande : 1 €
 * 24 cl d'huile de tournesol: 0,5 €
 * 90 g de raisins secs 2 €
+
 ### coût
 6 €
 
@@ -30,6 +31,7 @@ pour 36 muffins
 * moules à muffins
 * cuillière
 * fouet
+
 ### Recette
 1. Préchauffer le four à 180°c
 2. Mélanger la pulpe, la farine, la poudre à lever et le sucre

@@ -1,5 +1,5 @@
 ---
-author: Matthieu Dechart
+author: Bénédicte Lambert
 description: Un classique de la patisserie à faire soi-même avec des produits locaux.
 image_url: https://raw.githubusercontent.com/akakeronos/recette-gourmandignes/master/images/fraisier.jpg
 title: Forêt noire aux fraises
